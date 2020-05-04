@@ -1,15 +1,18 @@
-Ships Tagging in Harbours on Pléiades HR imagery
+# Ships Tagging in Harbours on Pléiades HR imagery
 
-    Version 2020-05-04
+ > Version 2020-05-04
 
-Geometry
+## Geometry
 
-This project aims to tag ships in satellite images, using PHR RGB imagery (spatial resolution of 0,5 meters).
+This project aims to tag **ships** in satellite images, using PHR RGB imagery (spatial resolution of 0,5 meters).
 
-Records should be annotated as an oriented bounding-box (with orientation going from back to front of ship) or as a rectangle i.e. a 4-vertices polygon.
+Records should be annotated as an **oriented bounding-box** (with orientation going from back to front of ship) or as a rectangle i.e. a **4-vertices polygon**. 
 
-Examples of ship geometries
-Classes
+<p align="center"> 
+    <img src="resources/ships/geom.png" width="200" height="200" title="Examples of ship geometries">
+</p>
+
+## Classes
 
 Every record should be classified as ship.
 
@@ -19,7 +22,7 @@ Examples
 
 Find below some examples of ships that can be encountered:
 
-Notes
+## Notes
 
 Please, do label truncated ships at the border of the imagery.
 
