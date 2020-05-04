@@ -14,7 +14,7 @@ Classes
 Every record should be classified as ship.
 
 It is mandatorly expected to also classify the type of ship at level 2, along the following taxonomy:
-
+Insert image
 Examples
 
 Find below some examples of ships that can be encountered:
@@ -23,10 +23,5 @@ Notes
 
 Please, do label truncated ships at the border of the imagery.
 
-When ships are moored alongside, they should be labelled individually. As an example, this image contains 10 ships.
+When ships are moored alongside, they should be labelled individually. As an example, this image contains xx ships.
 
-Example of a ship on a Sentinel-2 image
-
-Most white patches at sea are ships. This image contains 5 ships and the following 3 ships.
-
-Example of a ship on a Sentinel-2 image Example of a ship on a Sentinel-2 image
